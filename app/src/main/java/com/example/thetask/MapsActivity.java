@@ -18,16 +18,13 @@ import java.util.ArrayList;
 public class MapsActivity extends FragmentActivity implements OnMapReadyCallback {
     private static final String TAG = MapsActivity.class.getSimpleName();
     private GoogleMap mMap;
-    private static final LatLng PERTH = new LatLng(-31.952854, 115.857342);
-    private static final LatLng SYDNEY = new LatLng(-33.87365, 151.20689);
-    private static final LatLng BRISBANE = new LatLng(-27.47093, 153.0235);
-    private Marker mPerth;
-    private Marker mSydney;
+    
+    
     private Marker mine;
     private LatLng mylatlang;
 
     ArrayList<String> myList;
-    private Marker mBrisbane;
+   
     Integer qwerty;
 
     @Override
@@ -57,10 +54,10 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
         int abcd;
 
-        // Add a marker in Sydney and move the camera
-        LatLng sydney = new LatLng(x, y);
-        mMap.addMarker(new MarkerOptions().position(sydney));
-        mMap.moveCamera(CameraUpdateFactory.newLatLng(sydney));
+        
+        LatLng hyd = new LatLng(x, y);
+        mMap.addMarker(new MarkerOptions().position(hyd));
+        mMap.moveCamera(CameraUpdateFactory.newLatLng(hyd));
         for (abcd = 2; abcd <= qwerty - 2; abcd = abcd + 2) {
             x = f.parseFloat(myList.get(abcd + 1));
             y = f.parseFloat(myList.get(abcd));
@@ -72,19 +69,6 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
             mine = mMap.addMarker(new MarkerOptions().position(mylatlang));
             mine.setTag(0);
         }
-     /*   mPerth = mMap.addMarker(new MarkerOptions()
-                .position(PERTH)
-                .title("Perth"));
-        mPerth.setTag(0);
-
-        mSydney = mMap.addMarker(new MarkerOptions()
-                .position(SYDNEY)
-                .title("Sydney"));
-        mSydney.setTag(0);
-
-        mBrisbane = mMap.addMarker(new MarkerOptions()
-                .position(BRISBANE)
-                .title("Brisbane"));
-        mBrisbane.setTag(0);*/
+     
     }
 }
