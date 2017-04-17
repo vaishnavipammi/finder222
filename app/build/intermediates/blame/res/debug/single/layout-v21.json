@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\desktop\\TheTask\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "D:\\desktop\\TheTask\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.1\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "D:\\desktop\\afterMapsStartedworkinproperly\\TheTask\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "D:\\desktop\\afterMapsStartedworkinproperly\\TheTask\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.1\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "D:\\desktop\\aftersearchbarstartedworking\\TheTask\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "D:\\desktop\\aftersearchbarstartedworking\\TheTask\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.1\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "D:\\TheTask\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "D:\\TheTask\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.1\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "D:\\desktop\\github\\TheTask\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "D:\\desktop\\github\\TheTask\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.1\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "D:\\desktop\\afterNewButton\\TheTask\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "D:\\desktop\\afterNewButton\\TheTask\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.2.1\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    }
+]

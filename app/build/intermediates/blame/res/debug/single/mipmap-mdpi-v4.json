@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\desktop\\TheTask\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\desktop\\TheTask\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\TheTask\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\TheTask\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\desktop\\afterNewButton\\TheTask\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\desktop\\afterNewButton\\TheTask\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\desktop\\aftersearchbarstartedworking\\TheTask\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\desktop\\aftersearchbarstartedworking\\TheTask\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\desktop\\afterMapsStartedworkinproperly\\TheTask\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\desktop\\afterMapsStartedworkinproperly\\TheTask\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\desktop\\github\\TheTask\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\desktop\\github\\TheTask\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]
